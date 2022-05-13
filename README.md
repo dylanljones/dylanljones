@@ -1,7 +1,7 @@
 
 # Hi, I'm Dylan 👋
 
-Currently working as a PhD student at the [Augsburg University](https://www.uni-augsburg.de/de/). 
+Currently pursuing a PhD in strongly-correlated condensed matter physics at the [University of Augsburg](https://www.uni-augsburg.de/de/). 
 Interested in computational physics, quantum computing and programming in general.
 
 ## Projects
