@@ -11,6 +11,7 @@ Check out some of the projects I'm working on:
 *Computational physics*
 
 - [lattpy](https://github.com/dylanljones/lattpy) - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
+- [exactdiag](https://github.com/dylanljones/exactdiag) - Exact diagonalization of fermionic many-body systems
 - [cmpy](https://github.com/dylanljones/cmpy) - Collection of tools for computational condensed matter physics.
 - [dqmc](https://github.com/dylanljones/dqmc) - Efficient and stable Determinant Quantum Monte Carlo simulations in Python.
 
