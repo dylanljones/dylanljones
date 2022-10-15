@@ -6,13 +6,10 @@ Interested in computational physics, quantum computing and programming in genera
 
 ## Projects
 
-Check out some of the projects I'm working on:
-
 *Computational physics*
 
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
 - [exactdiag] - Exact diagonalization of fermionic many-body systems
-- [cmpy] - Collection of tools for computational condensed matter physics.
 - [dqmc] - Efficient and stable Determinant Quantum Monte Carlo simulations in Python.
 
 *Music*
