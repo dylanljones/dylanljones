@@ -28,3 +28,5 @@ Interested in computational physics, quantum computing and programming in genera
 [cmpy]: https://github.com/dylanljones/cmpy
 [dqmc]: https://github.com/dylanljones/dqmc
 [pyrekordbox]: https://github.com/dylanljones/pyrekordbox
+
+![](https://hit.yhype.me/github/profile?user_id=39274612)
