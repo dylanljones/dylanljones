@@ -23,8 +23,8 @@ Interested in computational physics, quantum computing and programming in genera
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
 
 <br>
-    <a href="https://github.com/dylanljones"> <img alt="Dylan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dylanljones&show_icons=true&hide=contribs&theme=dracula"/> </a>
-    <a href="https://github.com/dylanljones"> <img alt="Dylan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanljones&layout=compact&theme=dracula"/> </a>
+    <a href="https://github.com/dylanljones"> <img alt="Dylan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dylanljones&show_icons=true&hide_border=true&hide=contribs&theme=dracula"/> </a>
+    <a href="https://github.com/dylanljones"> <img alt="Dylan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanljones&layout=compact&hide_border=true&theme=dracula"/> </a>
 <br/>
 
 ## Contact 📫
