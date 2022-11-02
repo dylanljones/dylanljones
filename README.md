@@ -19,6 +19,10 @@ Interested in computational physics, quantum computing and programming in genera
 
 - [pyrekordbox] - Inofficial Python package for interacting with the library of Pioneer's Rekordbox DJ software. 
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
+
+
 ## Contact 📫
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanljones94@gmail.com)
