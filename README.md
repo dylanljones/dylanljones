@@ -40,6 +40,6 @@ Interested in computational physics, quantum computing, machine learning and pro
 [lattpy]: https://github.com/dylanljones/lattpy
 [exactdiag]: https://github.com/dylanljones/exactdiag
 [pyrekordbox]: https://github.com/dylanljones/pyrekordbox
-[mplstyles]: https://github.com/dylanljones/pyrekordbox
+[mplstyles]: https://github.com/dylanljones/mplstyles
 
 ![](https://hit.yhype.me/github/profile?user_id=39274612)
