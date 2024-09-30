@@ -7,6 +7,10 @@
 Currently pursuing a PhD in strongly-correlated condensed matter physics at the [University of Augsburg](https://www.uni-augsburg.de/de/). 
 Interested in computational physics, quantum computing, machine learning and programming in general.
 
+## Publications
+
+- [Superconducting transition temperatures of pure vanadium and vanadium-titanium alloys in the presence of dynamical electronic correlations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.165107) ([arXiv](https://arxiv.org/abs/2403.13202))
+
 ## Projects
 
 *Computational physics*
