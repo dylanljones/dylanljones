@@ -15,6 +15,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Computational physics*
 
+- [emtolib] - Python package and CLI for the EMTO DFT+CPA code
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
 - [exactdiag] - Exact diagonalization of fermionic many-body systems.
 
@@ -36,5 +37,6 @@ Interested in computational physics, quantum computing, machine learning and pro
 [pyrekordbox]: https://github.com/dylanljones/pyrekordbox
 [mplstyles]: https://github.com/dylanljones/mplstyles
 [ftmplt]: https://github.com/dylanljones/ftmplt
+[emtolib]: https://github.com/dylanljones/emtolib
 
 ![](https://hit.yhype.me/github/profile?user_id=39274612)
