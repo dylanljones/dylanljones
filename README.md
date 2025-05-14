@@ -1,5 +1,5 @@
 
-# Hi, I'm Dylan 👋
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ![](https://komarev.com/ghpvc/?username=dylanljones)
 
@@ -28,6 +28,23 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 - [ftmplt] - Simple string parsing and formatting using Python's f-string templates.
 - [mplstyles] - Collection of scientific Matplotlib styles.
+
+---
+<p align="center">
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />    
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />       
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />  
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />      
+</p>
+
+---
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
 
