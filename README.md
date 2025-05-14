@@ -7,6 +7,24 @@
 Currently pursuing a PhD in strongly-correlated condensed matter physics at the [University of Augsburg](https://www.uni-augsburg.de/de/). 
 Interested in computational physics, quantum computing, machine learning and programming in general.
 
+---
+<p align="center">
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />    
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />       
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />   
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
+  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+---
+
 ## 📑 Publications
 
 - [Superconducting transition temperatures of pure vanadium and vanadium-titanium alloys in the presence of dynamical electronic correlations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.165107) [[arXiv](https://arxiv.org/abs/2403.13202)]
@@ -28,24 +46,6 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 - [ftmplt] - Simple string parsing and formatting using Python's f-string templates.
 - [mplstyles] - Collection of scientific Matplotlib styles.
-
----
-<p align="center">
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />    
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />       
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />   
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
-  <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
----
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
 
