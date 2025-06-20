@@ -33,7 +33,8 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Computational physics*
 
-- [emtolib] - Python package and CLI for the EMTO DFT+CPA code
+- [tris_cpa] - Single site disorder solvers for TRIQS.
+- [emtolib] - Python package and CLI for the EMTO DFT+CPA code.
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
 - [exactdiag] - Exact diagonalization of fermionic many-body systems.
 
@@ -49,6 +50,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
 
 
+[triqs_cpa]: https://github.com/dylanljones/triqs_cpa
 [lattpy]: https://github.com/dylanljones/lattpy
 [exactdiag]: https://github.com/dylanljones/exactdiag
 [pyrekordbox]: https://github.com/dylanljones/pyrekordbox
