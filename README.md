@@ -33,7 +33,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Computational physics*
 
-- [tris_cpa] - Single site disorder solvers for TRIQS.
+- [triqs_cpa] - Single site disorder solvers for TRIQS.
 - [emtolib] - Python package and CLI for the EMTO DFT+CPA code.
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
 - [exactdiag] - Exact diagonalization of fermionic many-body systems.
