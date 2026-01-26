@@ -34,6 +34,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Computational physics*
 
+- [model_dmft] - A versatile python wrapper to perform CPA+DMFT calculations utilizing the TRIQS library.
 - [triqs_cpa] - Single site disorder solvers for TRIQS.
 - [emtolib] - Python package and CLI for the EMTO DFT+CPA code.
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
@@ -51,6 +52,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dylanljones/dylanljones/output/github-snake.svg#gh-light-mode-only)
 
 
+[model_dmft]: https://github.com/dylanljones/model_dmft
 [triqs_cpa]: https://github.com/dylanljones/triqs_cpa
 [lattpy]: https://github.com/dylanljones/lattpy
 [exactdiag]: https://github.com/dylanljones/exactdiag
