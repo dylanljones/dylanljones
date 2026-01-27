@@ -34,7 +34,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Computational physics*
 
-- [model_dmft] - A versatile python wrapper to perform CPA+DMFT calculations utilizing the TRIQS library.
+- [model_dmft] - A framework to perform CPA+DMFT calculations utilizing the TRIQS library.
 - [triqs_cpa] - Single site disorder solvers for TRIQS.
 - [emtolib] - Python package and CLI for the EMTO DFT+CPA code.
 - [lattpy] - Simple and efficient Python package for modeling d-dimensional Bravais lattices in solid state physics.
