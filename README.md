@@ -25,7 +25,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 ---
 
 ## 📑 Publications
-- **Correlated electronic states at a ferromagnetic oxide interface** [In Process]
+- **Correlated electronic states at a ferromagnetic oxide interface** [[arXiv](https://arxiv.org/abs/2602.15774)]
 - **Superconducting transition temperatures of pure vanadium and vanadium-titanium alloys in the presence of dynamical electronic correlations**, [Phys. Rev. B **109**, 165107](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.165107) [[arXiv](https://arxiv.org/abs/2403.13202)]
 - **Quasiparticle Fermi surfaces of niobium and niobium-titanium alloys at high pressure**, [Phys. Rev. B **111**, 165152](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.165152) [[arXiv](https://arxiv.org/abs/2501.08012)]
 - **Suppression of magnetism in Co3Sn2S2 under external pressure** [[arXiv](https://arxiv.org/abs/2511.08141)]
