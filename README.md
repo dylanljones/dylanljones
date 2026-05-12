@@ -4,7 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=dylanljones)
 
 
-Currently pursuing a PhD in strongly-correlated condensed matter physics at the [University of Augsburg](https://www.uni-augsburg.de/de/). 
 Interested in computational physics, quantum computing, machine learning and programming in general.
 
 ---
