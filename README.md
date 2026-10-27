@@ -42,7 +42,8 @@ Interested in computational physics, quantum computing, machine learning and pro
 
 *Music*
 
-- [pyrekordbox] - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software.
+- [rbox] - Library for interacting with the local and export data of Pioneers Rekordbox DJ software. Written in Rust, with Python/JavaScript bindings.
+- [pyrekordbox] - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software. Original Python library rbox builds on.
 
 *Other*
 
@@ -57,6 +58,7 @@ Interested in computational physics, quantum computing, machine learning and pro
 [lattpy]: https://github.com/dylanljones/lattpy
 [exactdiag]: https://github.com/dylanljones/exactdiag
 [pyrekordbox]: https://github.com/dylanljones/pyrekordbox
+[rbox]: https://github.com/dylanljones/rbox
 [mplstyles]: https://github.com/dylanljones/mplstyles
 [ftmplt]: https://github.com/dylanljones/ftmplt
 [emtolib]: https://github.com/dylanljones/emtolib
